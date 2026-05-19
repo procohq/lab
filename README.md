@@ -12,7 +12,7 @@
 
 ---
 
-Free developer environment for building and testing AI agent payments. Runs on Base Sepolia with testnet USDC. No credit card. No real money.
+Free developer environment for building and testing Proco integrations. Policy enforcement, x402 payments, and settlement flows on Base Sepolia — testnet USDC, no credit card, no real money.
 
 ## What's included
 
